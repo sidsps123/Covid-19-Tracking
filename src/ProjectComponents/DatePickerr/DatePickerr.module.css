@@ -1,0 +1,49 @@
+.container{
+    height: 10rem;
+    width: 40vw;
+    background-color: rgb(240, 221, 221);
+    border: 1px solid black;
+    color:white;
+    display: flex;
+    transition-property: width;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s;
+  border-radius: 10;
+}
+.inner_1{
+    background-color: rgb(231, 218, 218);
+    /* height: 33%; */
+    width: 100%;
+}
+.inner_2{
+    background-color: rgb(231, 218, 218);
+    /* height: 33%; */
+    width: 100%;
+}
+.inner_3{
+    background-color: rgb(231, 218, 218);
+    /* height: 33%; */
+    width: 100%;
+}
+
+.butt{
+    height: 3rem;
+    width: 15rem;
+    background-color: aqua;
+    border-radius: 1rem;
+    text-align: center;
+}
+
+.cont{
+    display: flex;
+    flex-direction: column;
+}
+
+.contt{
+    width: 80vw;
+    /* background-color: red; */
+}
+.in1{
+    color: black;
+}
