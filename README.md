@@ -5,10 +5,14 @@
  
  API used: https://covid19.mathdro.id/api
  
- 
+ Important Note : Above api only contains limited past daily data which is upto 7th March 2021
+And before 14th January 2020
+Before 14th January 2020, there were no covid cases so
+there will be no data for that also
+
  For Setup ,
   run npm i && npm start
 
  
- 
+
  
